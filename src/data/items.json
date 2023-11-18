@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "First Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Second Book",
+    "price": 24.77,
+    "imgUrl": "/imgs/book_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Thired Book",
+    "price": 18.99,
+    "imgUrl": "/imgs/book_3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dell Laptop",
+    "price": 20.99,
+    "imgUrl": "/imgs/dell laptop.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Asus Laptop",
+    "price": 14.44,
+    "imgUrl": "/imgs/asus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Apple Laptop",
+    "price": 50.05,
+    "imgUrl": "/imgs/apple.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hyundai Car",
+    "price": 14000,
+    "imgUrl": "/imgs/Hyundai.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Toyota Car",
+    "price": 12000.05,
+    "imgUrl": "/imgs/Toyota.jpg"
+  },
+  {
+    "id": 9,
+    "name": "kia Car",
+    "price": 17770.05,
+    "imgUrl": "/imgs/kia.jpg"
+  }
+]
