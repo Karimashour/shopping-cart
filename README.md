@@ -19,6 +19,5 @@ https://6558a32643f259569655ed97--silver-genie-7c1efb.netlify.app/
 
 - Home page <br>
 - Store page <br>
-- Payment page <br>
 - About page <br>
 - shooping cart and checkout<br>
