@@ -1,6 +1,6 @@
 # Shopping Cart live preview :
 
-https://6558a32643f259569655ed97--silver-genie-7c1efb.netlify.app/store
+https://6558a32643f259569655ed97--silver-genie-7c1efb.netlify.app/
 
 <img src="./Capture.PNG">
 
